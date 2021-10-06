@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/yshrael-pimentel-76502820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ysh-rael/count.svg" /></p>
- <p align="center">Obrigado pela visita! Volte sempre!!</p>
+ <p align="center">Obrigado pela visita, Volte sempre!!</p>
  
   ![Snake animation](https://github.com/Ysh-rael/Ysh-rael/blob/output/github-contribution-grid-snake.svg)
  
