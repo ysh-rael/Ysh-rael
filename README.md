@@ -35,6 +35,11 @@
 >
 > ![electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 > ![Express.js](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
+
+> Bibliotecas:
+>
+> ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+> ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)
  
 > Edição de Imagens/vetor e criação de prototipagem (Desing)
 >
@@ -58,6 +63,8 @@
 > Ferramentas de Desenvolvimento e versionamento de código
 >
 > ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+> ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
+> ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 > ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 > ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublimetext)&nbsp;
