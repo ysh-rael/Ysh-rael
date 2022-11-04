@@ -11,14 +11,13 @@
   
   
 ```
-// Como saber se é javaScript? se for verdadeiro é javaScript
+// Como saber se é javaScript:
    0=="0" && 0==[] && "0"!==[] ?  console.log("Prazer, Javascript") : { outrasLinguagens: err }
    
 ```
     
->> Apesar do foco no desenvolvimento web, você encontrará neste perfil alguns bots para aplicativos como:  
-<sub>![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)&nbsp;</sub><sub>![whatsapp](https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp)&nbsp;</sub><sub>![discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;</sub>
->>> Atenção: Nesse momento os bots estão privados por estarem em faze de teste/desenvolvimento.(em breve disponibilizo)    
+>> Apesar do foco no desenvolvimento web, você encontrará neste perfil alguns bots para aplicativos como:  <br><br>
+<sub>![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)&nbsp;<br></sub><sub>![whatsapp](https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp)&nbsp;<br></sub><sub>![discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;</sub>
 
 ------------------
 > Sistema operacional principal:  
