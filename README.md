@@ -76,9 +76,9 @@ Precisa entrar em contato comigo?
 
 <span>
 
-[![gmail](https://img.shields.io/twitter/url?label=Yshraelp&logo=gmail&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://twitter.com/YshraelP)
+[![gmail](https://img.shields.io/twitter/url?label=Yshraelp&logo=gmail&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://mailto:email@provedor.com.br)
 [![linkedin](https://img.shields.io/twitter/url?label=Yshraelp&logo=linkedin&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://www.linkedin.com/in/yshrael-pimentel-76502820b/)
-[![twiter](https://img.shields.io/twitter/url?label=Yshraelp&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)]()
+[![twiter](https://img.shields.io/twitter/url?label=Yshraelp&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://twitter.com/YshraelP)
 </span>
 
 
