@@ -24,11 +24,16 @@
 >
 > ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
+> *Runtime*
+> 
+> ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
 > Linguagens de programação:
 >
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
->![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
->![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp; 
+> ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+> ![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
+> ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 
 > Frameworks:
 >
