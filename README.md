@@ -33,6 +33,8 @@
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 > ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 > ![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/52c43d6e-2141-4a9c-b50e-dfe2ca989401"> C sharp
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/d7feec73-f6d1-483c-a7e5-a34c1d8f40cb"> CPP
 > ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 
 > Frameworks:
