@@ -29,13 +29,14 @@
 > ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 > Linguagens de programação:
->
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-> ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-> ![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/52c43d6e-2141-4a9c-b50e-dfe2ca989401"> C sharp
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/d7feec73-f6d1-483c-a7e5-a34c1d8f40cb"> CPP
-> ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+> 
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/a4dc3b55-e312-4249-b83e-a23a315b8c43">  JavaScript <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/71ed2ba9-156b-451a-b030-ac6acbd67499">  TypeScript <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/52c43d6e-2141-4a9c-b50e-dfe2ca989401">  C# (sharp) <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/d7feec73-f6d1-483c-a7e5-a34c1d8f40cb">  C++ <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/419032d5-19fe-44e2-ad07-938909141681">  C <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/ba705468-c0ce-4604-bf5e-1bb8b23ac0fb">  Python <br>
+><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/7c462051-6897-4d0d-b593-03b2361f16c8">  PHP <br>
 
 > Frameworks:
 >
