@@ -2,7 +2,9 @@
 
 # Yshrael Pimentel
 
-<img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=merko"/>
+<img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ysh-rael&theme=codeSTACKr&show_icons=true"/>
+
 &nbsp;&nbsp; Desenvolvedor web, discente na Faculdade Federal do Pará (Curso - Sistemas de informação) em busca da primeira oportunidade profissional.  
 
 
