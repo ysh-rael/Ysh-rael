@@ -16,8 +16,10 @@
    
 ```
     
->> Apesar do foco no desenvolvimento web, você encontrará neste perfil alguns bots para aplicativos como:  <br><br>
-<sub>![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)&nbsp;<br></sub><sub>![whatsapp](https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp)&nbsp;<br></sub><sub>![discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;</sub>
+> Desenvolvimento de bots para:  <br><br>
+<sub>![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)&nbsp;<br></sub><br>
+<sub>![discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;</sub> <br> 
+Se você não encontrar os repositórios é porque provavelmente os privel para manutenção.
 
 ------------------
 > Sistema operacional principal:  
@@ -71,9 +73,11 @@
 >
 > ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 > ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
+> ![Grunt](https://img.shields.io/badge/-Grunt-05122A?style=flat&logo=grunt)&nbsp;
 > ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 > ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+> ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=9b28bf)&nbsp;
 > ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublimetext)&nbsp;
 
   
