@@ -4,7 +4,7 @@
 <img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ysh-rael&theme=codeSTACKr&show_icons=true"/>
 <img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
-&nbsp;&nbsp; Desenvolvedor web, discente na Faculdade Federal do Pará (Curso - Sistemas de informação) em busca da primeira oportunidade profissional.  
+&nbsp;&nbsp; Desenvolvedor Full stack, discente na Faculdade Federal do Pará (Curso - Sistemas de informação). COm foco em desenvolvimento web.  
 
 
 ### ____________________
