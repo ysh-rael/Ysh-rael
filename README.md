@@ -13,7 +13,7 @@
   
 ```
 // Como saber se é javaScript:
-   0=="0" && 0==[] && "0"!==[] ?  console.log("Prazer, Javascript") : { outrasLinguagens: err }
+   0=="0" && 0==[] && "0"!==[] ?  console.log("Prazer, Javascript") : console.log("Ain, não sei somar número com string")
    
 ```
     
