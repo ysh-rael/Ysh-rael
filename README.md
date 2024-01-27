@@ -1,4 +1,5 @@
 <img height="160em" src="https://user-images.githubusercontent.com/79410863/188251321-aa1ac29d-7e4c-4ff0-bae4-fa9917c927ac.png"/>  
+<img align="right"  src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/00c87bfe-90eb-4721-a8d8-274293746a70"/>  
 
 # Olá, eu sou o Yshrael!
 <img align="right"  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
@@ -7,64 +8,71 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-💼 Programador Full Stack na Brasolucoes. 
+💼 Programador Full Stack na Bra Solucoes. 
 
 🎯 Desenvolvimento web é meu ponto forte!
 
 ### Linguagem de Eleição: JavaScript
-
+<abbr title="Hyper Text Markup Language">HTML</abbr> 
 Sem dúvida, JavaScript é a linguagem que amo programar. Através dela, desenvolvi minha lógica de programação e, apesar de suas peculiaridades, ela abriu meu entendimento e acelerou meu aprendizado em outras linguagens. Embora eu tenha alguns projetos em outras linguagens, a maior parte dos códigos encontrados aqui são escritos em JS ou tem relacao com o mesmo.
 
 Vamos colaborar e criar algo incrível juntos! 🚀
     
-> Sistema operacional principal:  
+> **Sistema operacional principal:**  
 >
-> ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+> ![Linux](https://github.com/ysh-rael/Ysh-rael/assets/79410863/48f4af40-4a69-4e2a-a7ca-e962af4ccd82) Linux (baseados em debian) <br>
 
-> *Runtime*
-> 
-> ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-> Linguagens de programação:
-> 
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/a4dc3b55-e312-4249-b83e-a23a315b8c43">  JavaScript <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/71ed2ba9-156b-451a-b030-ac6acbd67499">  TypeScript <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/52c43d6e-2141-4a9c-b50e-dfe2ca989401">  C# (sharp) <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/d7feec73-f6d1-483c-a7e5-a34c1d8f40cb">  C++ <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/419032d5-19fe-44e2-ad07-938909141681">  C <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/ba705468-c0ce-4604-bf5e-1bb8b23ac0fb">  Python <br>
-><img width="20px" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/7c462051-6897-4d0d-b593-03b2361f16c8">  PHP <br>
-
-> Frameworks:
+> **Runtime**
 >
-> ![electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
-> ![Express.js](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
+> ![icons8-nodejs-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/b57d0506-a7a0-4368-a5cd-a012de6e75d2) NodeJs <br>
 
-> Bibliotecas:
+> **Linguagens de programação:**
+>
+> ![icons8-javascript-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/a3ebd705-1b27-4a7b-be28-71e8a046e01f) JavaScript
+> 
+> ![icons8-typescript-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/95a22a16-51e8-4c47-b5f0-4f19120ac372) TypeScrip
+> 
+> ![icons8-c-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/95592570-8eb0-41f8-87f6-144edbf3bd7a) C Sharp
+>
+> ![icons8-c-48 (1)](https://github.com/ysh-rael/Ysh-rael/assets/79410863/beab89db-9957-4948-ac69-65721e83c263) C++
+>
+> ![icons8-python-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/eff34fdf-8bf8-4738-9e13-2b5dc6d65c2a) Python
+>
+> 
+
+> **Frameworks:**
+>
+> ![icons8-atom-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/5946dad7-de3d-402b-8424-f725847d58a0) Electron
+>
+> ![icons8-express-js-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/6711030e-43e3-4c29-ad38-b019a8987269) Express Js
+>
+> ![icons8-handlebar-mustache-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/7571905a-6ea6-4efa-8c10-dedb97a269f3) Handlebars
+
+> **Bibliotecas:**
 >
 > ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 > ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)
  
-> Edição de Imagens/vetor e criação de prototipagem (Desing)
+> **Edição de Imagens/vetor e criação de prototipagem (Desing)**
 >
 > ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 > ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
 
-> Banco de dados:
+> **Banco de dados:**
 >
 > ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 > ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-> Marcação de texto:
+> **Marcação de texto:**
 >
 > ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 > ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-> Estilo:
+> **Estilo:**
 > 
 > ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-> Ferramentas de Desenvolvimento e versionamento de código
+> **Ferramentas de Desenvolvimento e versionamento de código**
 >
 > ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 > ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
