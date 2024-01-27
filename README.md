@@ -1,28 +1,22 @@
 <img height="160em" src="https://user-images.githubusercontent.com/79410863/188251321-aa1ac29d-7e4c-4ff0-bae4-fa9917c927ac.png"/>  
 
-# Yshrael Pimentel
-<img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ysh-rael&theme=codeSTACKr&show_icons=true"/>
-<img align="right"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
+# Olá, eu sou o Yshrael!
+<img align="right"  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
-&nbsp;&nbsp; Desenvolvedor Full stack, discente na Faculdade Federal do Pará (Curso - Sistemas de informação). COm foco em desenvolvimento web.  
+## Desenvolvedor Full Stack | Discente na Faculdade Federal do Pará (Sistemas de Informação)
 
+Bem-vindo ao meu perfil do GitHub! 
 
-### ____________________
-&nbsp;&nbsp; Sem dúvida JavaScript é a linguagem a qual amo programar. Atravez dela aprendi lógica de programação, mesmo tendo certas Peculiaridades, abriu meu entendimento e acelerou meu aprendizado em outras linguagens. Apesar de ter alguns projetos pessoais e exercícios/treino em outras linguagens, meus códigos são majoritariamente em JS.
-  
-  
-```
-// Como saber se é javaScript:
-  0=="0" && 0==[] && "0"!==[] ?  "Prazer, Javascript" : "Ain, não sei somar número com string"
-   
-```
+💼 Programador Full Stack na Brasolucoes. 
+
+🎯 Desenvolvimento web é meu ponto forte!
+
+### Linguagem de Eleição: JavaScript
+
+Sem dúvida, JavaScript é a linguagem que amo programar. Através dela, desenvolvi minha lógica de programação e, apesar de suas peculiaridades, ela abriu meu entendimento e acelerou meu aprendizado em outras linguagens. Embora eu tenha alguns projetos em outras linguagens, a maior parte dos códigos encontrados aqui são escritos em JS ou tem relacao com o mesmo.
+
+Vamos colaborar e criar algo incrível juntos! 🚀
     
-> Desenvolvimento de bots para:  <br><br>
-<sub>![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)&nbsp;<br></sub><br>
-<sub>![discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;</sub> <br> 
-Se você não encontrar os repositórios é porque provavelmente os privel para manutenção.
-
-------------------
 > Sistema operacional principal:  
 >
 > ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
@@ -91,7 +85,6 @@ Precisa entrar em contato comigo?
 
 [![gmail](https://img.shields.io/twitter/url?label=Yshraelp&logo=gmail&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://mailto:email@provedor.com.br)
 [![linkedin](https://img.shields.io/twitter/url?label=Yshraelp&logo=linkedin&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://www.linkedin.com/in/yshrael-pimentel-76502820b/)
-[![twiter](https://img.shields.io/twitter/url?label=Yshraelp&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://twitter.com/YshraelP)
 </span>
 
 
