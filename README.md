@@ -47,6 +47,8 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 > ![icons8-react-48 (1)](https://github.com/ysh-rael/Ysh-rael/assets/79410863/128e29e7-541c-47b7-bb59-57531524d419) React &nbsp;&nbsp;
 > ![icons8-react-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/97a09a90-9276-4828-ba3f-c2b1c6c76b87) React Native &nbsp;&nbsp;
 > ![icons8-jquery-is-a-javascript-library-designed-to-simplify-html-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/5826c4a9-403c-4100-aba7-d21ce4513c07) Jquery &nbsp;&nbsp;
+> ![icons8-tensorflow-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/f562b68f-6fa7-4953-8c7d-25a8b8b45cd6) Tensorflow &nbsp;&nbsp;
+
 
 > **Edição de Imagens/vetor e criação de prototipagem (Desing)**
 >
@@ -66,30 +68,23 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 
 > **Estilo:**
 > 
-> ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+> ![icons8-css3-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/26e9dc23-efbf-49d9-ba96-6213c437927d) CSS3 &nbsp;&nbsp;
+> ![icons8-bootstrap-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/f4d2d28f-492e-4d8a-9e65-2ba19555fb0f) Bootstrep &nbsp;&nbsp;
+> ![bulma-logo_](https://github.com/ysh-rael/Ysh-rael/assets/79410863/c00ce765-87d6-4088-9fdb-f2ef28079833) Bulma &nbsp;&nbsp;
 
 > **Ferramentas de Desenvolvimento e versionamento de código**
 >
-> ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-> ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
-> ![Grunt](https://img.shields.io/badge/-Grunt-05122A?style=flat&logo=grunt)&nbsp;
-> ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-> ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-> ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=9b28bf)&nbsp;
-> ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublimetext)&nbsp;
-
+> ![icons8-git-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/788d7806-a186-4827-b0dd-b7556084e493) Git &nbsp;&nbsp;
+> ![icons8-gulp-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/67ff60e7-7954-4961-85b9-4531aad8ebdd) Gulp &nbsp;&nbsp;
+> ![icons8-grunt-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/9fdc9e7a-5949-43ce-a7b3-cbd6d7f14faf) Grunt &nbsp;&nbsp;
+> ![icons8-webpack-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/55565ec7-be65-447b-bb1d-a348c1fa7da0) Webpack &nbsp;&nbsp;
   
 ![Snake animation](https://github.com/Ysh-rael/Ysh-rael/blob/output/github-contribution-grid-snake.svg)
 
-Precisa entrar em contato comigo?  
-<sup>Leve em consideração que o tempo de resposta pelo email será mais rápido que as outras alternativas.</sup>
+**Precisa entrar em contato comigo?**
 
-<span>
-
-[![gmail](https://img.shields.io/twitter/url?label=Yshraelp&logo=gmail&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://mailto:email@provedor.com.br)
-[![linkedin](https://img.shields.io/twitter/url?label=Yshraelp&logo=linkedin&logoColor=teal&style=social&url=https%3A%2F%2Ftwitter.com%2FYshraelP)](https://www.linkedin.com/in/yshrael-pimentel-76502820b/)
-</span>
+[![icons8-gmail-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/df8ff676-5af8-461e-b78b-12c3cabb7168)](https://mailto:email@provedor.com.br) &nbsp;&nbsp;
+[![img icons8](https://github.com/ysh-rael/Ysh-rael/assets/79410863/9d2b2c68-901a-4a68-b3b0-bffef55f38a8)](https://www.linkedin.com/in/yshrael-pimentel-76502820b/) &nbsp;&nbsp;
 
 
  ----------
@@ -97,39 +92,3 @@ Precisa entrar em contato comigo?
  ### Obrigado pela visita!!  
  
  Veja os repositórios fixados logo abaixo 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-
-[comment]: <> (<img align="center" alt="logo-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">)
-  
-  [comment]: <> (<img align="center" alt="logo-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">)
-  
-  [comment]: <> (<img align="center" alt="logo-JS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">)
-  
-  [comment]: <> (<img align="center" alt="logo-GIT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>)
-  
-  [comment]: <> (<img align="center" alt="logo-mySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>)
-  
-  [comment]: <> (<img align="center" alt="logo-PHP" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>)
-  
-  [comment]: <> (<img align="center" alt="logo-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />)
-  
-  [comment]: <> (<img align="center" alt="logo-nodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />)
-  
-  [comment]: <> (<img align="center" alt="logo-electronJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />)
-  
-  [comment]: <> (<img align="center" alt="ysh-electronJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />)
-</div>
