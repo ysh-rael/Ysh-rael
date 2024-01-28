@@ -1,5 +1,5 @@
 <img height="160em" src="https://user-images.githubusercontent.com/79410863/188251321-aa1ac29d-7e4c-4ff0-bae4-fa9917c927ac.png"/>  
-<img align="right"  src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/00c87bfe-90eb-4721-a8d8-274293746a70"/>  
+<img align="right" height="60rem" src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/8560297a-ea2b-46c6-b3b3-857bd56bee47"/>  
 
 # Olá, eu sou o Yshrael!
 <img align="right"  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
