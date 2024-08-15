@@ -19,7 +19,7 @@ Vamos colaborar e criar algo incrível juntos! 🚀
     
 > ## **Sistema operacional principal:**  
 >
-> ![Linux](https://github.com/ysh-rael/Ysh-rael/assets/79410863/48f4af40-4a69-4e2a-a7ca-e962af4ccd82) Linux (baseados em debian) <br>
+> ![Linux](https://github.com/ysh-rael/Ysh-rael/assets/79410863/48f4af40-4a69-4e2a-a7ca-e962af4ccd82) Linux <br>
 <br/>
 
 > ## **Runtime**
@@ -34,6 +34,8 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 > ![icons8-c-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/95592570-8eb0-41f8-87f6-144edbf3bd7a) C Sharp &nbsp;&nbsp;
 > ![icons8-c-48 (1)](https://github.com/ysh-rael/Ysh-rael/assets/79410863/beab89db-9957-4948-ac69-65721e83c263) C++ &nbsp;&nbsp;
 > ![icons8-python-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/eff34fdf-8bf8-4738-9e13-2b5dc6d65c2a) Python &nbsp;&nbsp;
+> ![icons8-golang-48](https://github.com/user-attachments/assets/57081892-6001-4778-9f38-6fb64479a009) Go &nbsp;&nbsp;
+> 
 
 <br/>
 
@@ -66,6 +68,7 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 >
 > ![icons8-mysql-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/209ee6fe-0b76-431a-b341-f2eb05b82a3b) MySQL &nbsp;&nbsp;
 > ![icons8-mongodb-a-cross-platform-document-oriented-database-program-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/a3d7d993-dd4c-4d6c-8bc4-c9d6cf552151) MongoDB &nbsp;&nbsp;
+> ![icons8-sqlite-48](https://github.com/user-attachments/assets/14884455-0ee2-458c-b7d0-459f943d7a37) SQLite &nbsp;&nbsp;
 
 <br/>
 
@@ -87,7 +90,7 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 > ## **Ferramentas de Desenvolvimento e versionamento de código**
 >
 > ![icons8-git-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/788d7806-a186-4827-b0dd-b7556084e493) Git &nbsp;&nbsp;
-> ![icons8-gulp-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/67ff60e7-7954-4961-85b9-4531aad8ebdd) Gulp &nbsp;&nbsp;
+> ![icons8-gole-48](https://github.com/user-attachments/assets/ff94d6df-62ed-478c-b5fc-5024b3e6a5d4) Gulp &nbsp;&nbsp;
 > ![icons8-grunt-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/9fdc9e7a-5949-43ce-a7b3-cbd6d7f14faf) Grunt &nbsp;&nbsp;
 > ![icons8-webpack-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/55565ec7-be65-447b-bb1d-a348c1fa7da0) Webpack &nbsp;&nbsp;
   
