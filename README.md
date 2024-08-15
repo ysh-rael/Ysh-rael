@@ -53,6 +53,7 @@ Vamos colaborar e criar algo incrível juntos! 🚀
 > ![icons8-react-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/97a09a90-9276-4828-ba3f-c2b1c6c76b87) React Native &nbsp;&nbsp;
 > ![icons8-jquery-is-a-javascript-library-designed-to-simplify-html-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/5826c4a9-403c-4100-aba7-d21ce4513c07) Jquery &nbsp;&nbsp;
 > ![icons8-tensorflow-48](https://github.com/ysh-rael/Ysh-rael/assets/79410863/f562b68f-6fa7-4953-8c7d-25a8b8b45cd6) Tensorflow &nbsp;&nbsp;
+> ![icons8-opencv-48](https://github.com/user-attachments/assets/8f678cc7-6a98-4d4c-a12e-73f2ee172585) OpenCV &nbsp;&nbsp;
 
 <br/>
 
@@ -111,3 +112,4 @@ Vamos colaborar e criar algo incrível juntos! 🚀
  ### Obrigado pela visita!!  
  
  Veja os repositórios fixados logo abaixo 
+
