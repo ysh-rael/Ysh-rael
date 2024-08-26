@@ -8,7 +8,7 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-💼 Programador Full Stack na Bra Solucoes. 
+💼 Software Developer na Bra Solucoes. 
 
 🎯 Desenvolvimento web é meu ponto forte!
 
