@@ -4,7 +4,7 @@
 # Olá, eu sou o Yshrael!
 <img align="right"  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysh-rael&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
-## Desenvolvedor Full Stack | Discente na Faculdade Federal do Pará (Sistemas de Informação)
+## Software Developer
 
 Bem-vindo ao meu perfil do GitHub! 
 
