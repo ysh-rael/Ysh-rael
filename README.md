@@ -8,14 +8,24 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-💼 Software Developer na Bra Solucoes. 
+💼 Desenvolvedor de software na Bra Solucoes. 
 
 🎯 Desenvolvimento web é meu ponto forte!
 
-### Linguagem de Eleição: JavaScript
-Sem dúvida, JavaScript é a linguagem que amo programar. Através dela, desenvolvi minha lógica de programação e, apesar de suas peculiaridades, ela abriu meu entendimento e acelerou meu aprendizado em outras linguagens. Embora eu tenha alguns projetos em outras linguagens, a maior parte dos códigos encontrados aqui são escritos em JS ou tem relacao com o mesmo.
+###  O Coração dos Meus Projetos: <sub><img src="https://github.com/ysh-rael/Ysh-rael/assets/79410863/a3ebd705-1b27-4a7b-be28-71e8a046e01f" height="24px"></sub> <code><b>JavaScript</b></code>
+Sem dúvida, JavaScript é a linguagem com a qual mais me identifico ao programar. Foi através dela que desenvolvi minha base em lógica de programação e, mesmo com suas peculiaridades(quem programa com JS sabe 😅), ela ampliou minha compreensão e facilitou o aprendizado de outras linguagens. Embora existam projetos aqui em diferentes stacks, a maioria dos códigos que você encontrará neste repositório está escrita em JavaScript ou guarda alguma relação com ele.
 
-Vamos colaborar e criar algo incrível juntos! 🚀
+## **Principais áreas de atuação:**
+
+- 🔍 **LPR/OCR:** Reconhecimento de placas e extração de texto em imagens  
+- 🤖 **Machine Learning:** Treinamento e avaliação de modelos  
+- 🌐 **Desenvolvimento Web:** SaaS, BI, dashboards e aplicações interativas  
+- 🔗 **Integrações com APIs:** Especialmente com dispositivos Hikvision  
+- 🧩 **Interfaces com Drag and Drop:** Funcionalidade e experiência do usuário  
+- ⚙️ **Otimização de performance em JavaScript/Node.js:**  
+  Uso de `worker_threads` no Node.js para processamento paralelo de tarefas intensivas, além do desenvolvimento de algoritmos otimizados para manipulação eficiente de objetos — com foco em desempenho e tempo de resposta em requisições sob demanda
+
+<br/>
     
 > ## **Sistema operacional principal:**  
 >
